@@ -1,0 +1,19 @@
+{
+  "name": "bamboo-api",
+  "version": "0.0.1",
+  "description": "A node module for requesting data from Bamboo REST APIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm outdated && mocha"
+  },
+  "author": "Drew Walker",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "es6-promise": "3.0.2",
+    "isomorphic-fetch": "2.1.1"
+  },
+  "devDependencies": {
+    "chai": "3.3.0",
+    "mocha": "2.3.3"
+  }
+}
