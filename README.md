@@ -1,5 +1,7 @@
 # bamboo-api
 
+[![Coverage Status](https://coveralls.io/repos/drewwalker/bamboo-api/badge.svg?branch=master&service=bitbucket)](https://coveralls.io/bitbucket/drewwalker/bamboo-api?branch=master)
+
 A node module for requesting data from Bamboo REST APIs.
 
 # Installation
