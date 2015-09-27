@@ -1,5 +1,5 @@
 {
-  "name": "bamboo-api",
+  "name": "bamboo-fetch-api",
   "version": "0.0.1",
   "description": "A node module for requesting data from Bamboo REST APIs.",
   "main": "index.js",
@@ -11,7 +11,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/drewwalker/bamboo-api.git"
+    "url": "https://bitbucket.org/drewwalker/bamboo-fetch-api.git"
   },
   "dependencies": {
     "es6-promise": "3.0.2",
