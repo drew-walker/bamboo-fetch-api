@@ -4,7 +4,8 @@
   "description": "A node module for requesting data from Bamboo REST APIs.",
   "main": "index.js",
   "scripts": {
-    "test": "npm outdated && mocha"
+    "test": "npm outdated && mocha",
+    "coverage": "npm outdated && istanbul cover ./node_modules/mocha/bin/_mocha -- -R spec"
   },
   "author": "Drew Walker",
   "license": "Apache-2.0",
