@@ -10,7 +10,7 @@ A server-side node module for requesting data from Bamboo REST APIs.
 
     npm install bamboo-api
 
-# Usage (Node)
+# Usage
 
     var bambooApi = require('bamboo-api');
 
