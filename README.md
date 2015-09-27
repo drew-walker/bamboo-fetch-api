@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/drew-walker/bamboo-api.svg?branch=master)](https://travis-ci.org/drew-walker/bamboo-api)
 [![Requirements Status](https://requires.io/bitbucket/drewwalker/bamboo-api/requirements.svg?branch=master)](https://requires.io/bitbucket/drewwalker/bamboo-api/requirements/?branch=master)
 
-A node module for requesting data from Bamboo REST APIs.
+A server-side node module for requesting data from Bamboo REST APIs.
 
 # Installation
 

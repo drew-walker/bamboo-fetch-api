@@ -9,9 +9,9 @@
   },
   "author": "Drew Walker",
   "license": "Apache-2.0",
-  "repository" : {
-    "type" : "git",
-    "url" : "https://bitbucket.org/drewwalker/bamboo-api.git"
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/drewwalker/bamboo-api.git"
   },
   "dependencies": {
     "es6-promise": "3.0.2",
@@ -21,6 +21,7 @@
     "chai": "3.3.0",
     "coveralls": "^2.11.4",
     "istanbul": "^0.3.21",
-    "mocha": "2.3.3"
+    "mocha": "2.3.3",
+    "sinon": "1.17.1"
   }
 }
