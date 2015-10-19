@@ -1,8 +1,8 @@
 # bamboo-fetch-api
 
-[![Coverage Status](https://coveralls.io/repos/drewwalker/bamboo-fetch-api/badge.svg?branch=master&service=bitbucket)](https://coveralls.io/bitbucket/drewwalker/bamboo-fetch-api?branch=master)
+[![Coverage Status](https://coveralls.io/repos/drew-walker/bamboo-fetch-api/badge.svg?branch=master&service=github)](https://coveralls.io/github/drew-walker/bamboo-fetch-api?branch=master)
 [![Build Status](https://travis-ci.org/drew-walker/bamboo-fetch-api.svg?branch=master)](https://travis-ci.org/drew-walker/bamboo-fetch-api)
-[![Requirements Status](https://requires.io/bitbucket/drewwalker/bamboo-fetch-api/requirements.svg?branch=master)](https://requires.io/bitbucket/drewwalker/bamboo-fetch-api/requirements/?branch=master)
+[![Requirements Status](https://requires.io/github/drew-walker/bamboo-fetch-api/requirements.svg?branch=master)](https://requires.io/github/drew-walker/bamboo-fetch-api/requirements/?branch=master)
 
 A server-side node module for requesting data from Bamboo REST APIs.
 
